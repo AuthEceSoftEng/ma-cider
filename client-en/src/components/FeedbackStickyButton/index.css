@@ -1,0 +1,17 @@
+.feedback-sticky-button-container{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 20px;
+    margin-right: 40px;
+}
+
+@media screen and (max-width: 576px) {
+    .hide-on-mobile{
+        display: none;
+    }
+    .feedback-sticky-button-container{
+        margin-right: 10px;
+    }
+}
+

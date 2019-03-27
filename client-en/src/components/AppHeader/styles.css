@@ -1,0 +1,28 @@
+.app-header{
+    background-color: #2C3E50;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+.app-header-content{
+    text-align: center;
+}
+
+span.app-header-brand{
+    vertical-align: sub;
+}
+
+span.app-header-brand-title{
+    vertical-align: sub;
+    font-size: 25px;
+    vertical-align: middle;
+    color: white;
+    letter-spacing: 12px;
+    font-family: 'Roboto Slab', serif;
+}
+
+img.app-header-brand-logo{
+    width: 24px;
+    vertical-align: super;
+}

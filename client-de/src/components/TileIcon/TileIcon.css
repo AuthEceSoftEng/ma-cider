@@ -1,0 +1,36 @@
+.tile-icon-container{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    cursor:pointer;
+    height:100%;
+}
+
+.tile-icon-container:hover{
+    -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+    border-color: rgba(0, 0, 0, 0.09);
+}
+
+.tile-icon-icon{
+    font-size: 60px;
+    border:15px solid #eff2f4;
+    border-radius: 54px;
+    position: absolute;
+    top: -35px;
+    background-color: white;
+    padding:5px;
+}
+
+img.tile-icon-icon{
+    border: 11px solid #eff2f4!important;
+    top: -45px!important;
+    width: 95px!important;
+    height: auto!important;
+}
+
+.tile-icon-content{
+    margin-top:65px;
+    padding-left:25px;
+    padding-right:25px;
+}

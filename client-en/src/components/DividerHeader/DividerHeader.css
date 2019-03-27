@@ -1,0 +1,22 @@
+.ant-divider.ant-divider-horizontal.ant-divider-with-text:before{
+    border-top: 1px solid #2c3e50!important;
+}
+
+.ant-divider.ant-divider-horizontal.ant-divider-with-text:after{
+    border-top: 1px solid #2c3e50!important;
+}
+
+.divider-header-white > .ant-divider.ant-divider-horizontal.ant-divider-with-text:before{
+    border-top: 1px solid white!important;
+}
+
+.divider-header-white > .ant-divider.ant-divider-horizontal.ant-divider-with-text:after{
+    border-top: 1px solid white!important;
+}
+
+
+@media screen and (max-width: 556px) {
+    .ant-divider-horizontal.ant-divider-with-text, .ant-divider-horizontal.ant-divider-with-text-left, .ant-divider-horizontal.ant-divider-with-text-right{
+        white-space: unset;
+    }
+}

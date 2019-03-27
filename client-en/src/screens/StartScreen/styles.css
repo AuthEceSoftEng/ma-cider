@@ -1,0 +1,47 @@
+.start-screen-col{
+    background-color: rgba(46, 64, 80, 0.05);
+    padding: 55px 5px;
+    border-radius:10px;
+}
+
+.start-screen-mobileage-logo{
+    max-width:60%;
+    height:auto;
+    margin: 15px 0px;
+}
+
+.start-screen-col h1{
+    font-size:36px;
+}
+
+.start-screen-col button{
+    font-weight: bold;
+}
+
+@media screen and (max-width: 1200px) {
+    .start-screen-col h1{
+        font-size:25px;
+    }
+    .start-screen-col h2{
+        font-size:18px;
+    }
+
+}
+  
+@media screen and (max-width: 900px) {
+    .start-screen-col h1{
+        font-size:23px;
+    }
+    .start-screen-col h2{
+        font-size:15px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .start-screen-col h1{
+        font-size:18px;
+    }
+
+}
+

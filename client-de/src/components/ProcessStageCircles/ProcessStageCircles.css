@@ -1,0 +1,50 @@
+.circle-img{
+    width: 100%;
+    height:auto
+}
+
+@media screen and (max-width: 991px) {
+    .circle-img{
+        width: 35%;
+        height:auto
+    }
+}
+
+.circle-div{
+    height:100%;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    display:flex;
+    justify-content: center;
+}
+
+.circle-div-content{
+    align-self: center;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding:10px;
+}
+
+._arrow-right {
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    border-right: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+}
+  
+@media screen and (max-width: 991px) {
+    ._arrow-right {
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+    }
+}

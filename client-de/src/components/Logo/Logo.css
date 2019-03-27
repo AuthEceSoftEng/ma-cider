@@ -1,0 +1,16 @@
+.img-logo-container{
+    text-align: center;
+    margin-bottom:40px;
+}
+
+.img-logo-container > img {
+    width: 300px;
+    height: auto;
+}
+
+@media screen and (max-width: 576px) {
+    .img-logo-container > img {
+        width: 240px;
+        height: auto;
+    }
+}

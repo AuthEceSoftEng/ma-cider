@@ -1,0 +1,151 @@
+/** Ant design */
+@import '~antd/dist/antd.css';
+
+
+/** Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
+/** General */
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.cursor-pointer {
+	cursor:pointer!important;
+}
+
+.row-eq-height {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+  
+.no-decoration, .no-decoration:hover, .no-decoration:active, .no-decoration:visited, .no-decoration:focus {
+	text-decoration:none;
+}
+
+.ml-5{
+	margin-left:5px;
+}
+
+.ml-8{
+	margin-left:8px;
+}
+
+.mb-5{
+	margin-bottom:5px;
+}
+.mb-16{
+	margin-bottom:16px;
+}
+.mb-45{
+	margin-bottom:45px;
+}
+  
+/** Main Layout Content */
+/** HeaderHeight: 64px, SidebarWidth: 250px */
+.app-main-layout-content{
+	margin-top: 90px; 
+	min-height: calc(100vh - 90px);
+}
+
+.my-resp-padding{
+	padding:0 50px;
+}
+
+@media screen and (max-width: 768px) {
+	.my-resp-padding{
+		padding:0 15px;
+	}
+}
+
+/** Animations */
+.slideDown{
+	visibility: hidden;		
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+	animation-delay: 500ms;
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+	animation-fill-mode: forwards;  
+	-webkit-animation-fill-mode: forwards;  
+  }
+  
+  @keyframes slideDown {
+	  0% {
+		  transform: translateY(-100%);
+		  visibility: visible;
+	  }
+	  50%{
+		  transform: translateY(8%);
+		  visibility: visible;
+	  }
+	  65%{
+		  transform: translateY(-4%);
+		  visibility: visible;
+	  }
+	  80%{
+		  transform: translateY(4%);
+		  visibility: visible;
+	  }
+	  95%{
+		  transform: translateY(-2%);
+		  visibility: visible;
+	  }			
+	  100% {
+		  transform: translateY(0%);
+		  visibility: visible;
+	  }		
+  }
+  
+  @-webkit-keyframes slideDown {
+	  0% {
+		  -webkit-transform: translateY(-100%);
+	  }
+	  50%{
+		  -webkit-transform: translateY(8%);
+	  }
+	  65%{
+		  -webkit-transform: translateY(-4%);
+	  }
+	  80%{
+		  -webkit-transform: translateY(4%);
+	  }
+	  95%{
+		  -webkit-transform: translateY(-2%);
+	  }			
+	  100% {
+		  -webkit-transform: translateY(0%);
+	  }	
+  }
+
+/* New designs */
+.color-primary{
+	color:#2c3e50;
+}
+
+.bg-color-primary{
+	background-color:#2c3e50;
+}
+
+.full-width{
+	position:absolute;
+	left:0;
+	right:0;
+}
+
+
+.full-width > div{
+	padding: 0 50px;
+}
+
+@media screen and (max-width: 768px) {
+	.full-width > div{
+		padding: 0 15px;
+	}
+}

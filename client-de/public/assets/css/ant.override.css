@@ -1,0 +1,36 @@
+.ant-menu-item-selected {
+    color: #0071cc!important;
+}
+.ant-menu-item-selected > a, .ant-menu-item-selected > a:hover {
+    color: #0071cc!important;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #e6f7ff!important;
+}
+.ant-menu-item-group-title {
+    color:#777777!important;
+}
+
+.ant-select-selection__placeholder{
+    color:#767676!important;
+}
+
+.ant-breadcrumb-separator{
+    color:#6d6f71!important;
+}
+
+a.more-contrast{
+    color:#006fca!important;
+}
+
+a.more-contrast:hover{
+    color:#348bd1!important;
+}
+
+p a {
+    color:#006fca;
+}
+
+p a:hover {
+    color:#348bd1;
+}

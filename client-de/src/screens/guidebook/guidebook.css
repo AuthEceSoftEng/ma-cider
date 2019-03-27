@@ -1,0 +1,17 @@
+h1 > i.anticon{
+    margin-right: 10px; 
+}
+
+.co-creation-model-stage-title-icon{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    /* font-size: 47px!important; */
+    /* padding-top: 5px; */
+    top: 50%;
+    right: 111%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    /* background-color: #eff2f4!important; */
+}

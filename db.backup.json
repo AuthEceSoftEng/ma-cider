@@ -1,0 +1,1872 @@
+{
+    "fieldSites": [
+        {
+            "id": 1,
+            "name": "RCM",
+            "description": "Region of Central Macedonia"
+        },
+        {
+            "id": 2,
+            "name": "Bremen",
+            "description": "Bremen Hermelingen"
+        }
+    ],
+    "coCreationStreams": [
+        {
+            "id": 1,
+            "relatedFieldSite": 1,
+            "name": "Thessaloniki",
+            "description": "Facilitator",
+            "report": "Accumsan justo lorem iaculis eu dictumst torquent torquent. Netus vestibulum dignissim odio class placerat enim justo. Ut elementum eros mus hac dolor nullam amet montes nunc tellus. Phasellus volutpat nibh magna tincidunt mus cursus rutrum viverra! Parturient, dignissim iaculis curabitur luctus? Volutpat potenti convallis cum tempus. Magnis adipiscing sociis augue suspendisse.",
+            "poster": "/assets/img/rcm-people.jpg"
+        },
+        {
+            "id": 2,
+            "relatedFieldSite": 2,
+            "name": "Bremen - Hermenlingen",
+            "description": "Facilitator",
+            "report": " Eu ornare libero, nisi est penatibus potenti enim pharetra sagittis. Non per cras ipsum facilisis nunc arcu turpis sodales. Hac nisi dui auctor. Sem tristique erat, consectetur nostra. Porttitor lacus, rutrum platea tincidunt id proin amet phasellus integer montes augue. Ut est amet curabitur dictum porta a mauris platea hendrerit maecenas senectus nam! Conubia pretium lectus scelerisque. Habitant orci pretium consequat erat urna sollicitudin netus mollis varius. Diam morbi vel velit luctus dictumst morbi ad sagittis id.",
+            "poster": "/assets/img/bremen-osterholz-people.jpeg"
+        }
+    ],
+    "interventions": [
+        {
+            "id": 1,
+            "name": "1st Informational event (12th Open Care Centre)",
+            "type": "Informational event",
+            "date": "23 June 2017",
+            "objective": "To inform potential participants about the project, collect consensus forms, make a first activity with questionnaires",
+            "location": "Municipality of Thessaloniki, 12th Open Care Center",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 2,
+            "name": "1st Informational event (3rd Open Care Center)",
+            "type": "Informational event",
+            "date": "2 October 2017",
+            "objective": "To inform potential participants about the project, collect consensus forms, make a first activity with questionnaires, check whether they relate to answers gathered from intervention 1st informational event",
+            "location": "Municipality of Thessaloniki, 3rd Open Care Center",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 3,
+            "name": "Preparatory meeting (RCM new building)",
+            "type": "preparatory meeting",
+            "date": "1 December 2017",
+            "objective": "To get informed about Madrid meeting, to clarify open data issues (availablity, degree of compliance, quality) and to prepare for the first workshop",
+            "location": "RCM Headquarters (New Building), 26th October 64",
+            "length": "1,8 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 4,
+            "name": "Co-creation event (12th Open Care Centre)",
+            "type": "Co-creation event",
+            "date": "15 December 2017",
+            "objective": "To demonstrate the results from the questionnaires gathered during the first 2 events, to present the basic services of the application, to assess those basic services and to discuss about their co-creation",
+            "location": "Municipality of Thessaloniki, 12th Open Care Center",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 5,
+            "name": "Co-creation event (12th Open Care Centre)",
+            "type": "Co-creation event",
+            "date": "2 March 2018",
+            "objective": "To remind and present 1) the basic services of the application and 2) the questionnaires results of the services evaluation, to demonstrate various options for the interface/functionality of the application, to co-create the provided services, to demonstrate the current interface and functionality of the developed mobile application through mockups, and to discuss about the preferred/favorite pharmacies of the seniors",
+            "location": "Municipality of Thessaloniki, 12th Open Care Center",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 6,
+            "name": "Co-creation event (12th Open Care Centre)",
+            "type": "Co-creation event",
+            "date": "24 April 2018",
+            "objective": "To demonstrate the results from adjusting the mobile application interface according to the technical decisions that were taken from the last KAPI co-creation event. To give to the seniors some tablets in order to test the application with various themes and styles (e.g different colors, different layout etc) and to assign each of them various application's tasks like finding the closest hospital, or calling to a doctor in order to evaluate the accessibility and the user experience of the various application's user scenarios",
+            "location": "Municipality of Thessaloniki, 12th Open Care Center",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 1
+        },
+        {
+            "id": 7,
+            "name": "Network meeting of local service providers",
+            "type": "Engaging stakeholders",
+            "date": "4th April 2017",
+            "objective": "To recruit intermediaries and service providers for core project group",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 8,
+            "name": "Cooperation meeting with research project buten aktiv",
+            "type": "Planning & evaluating",
+            "date": "6th April 2017",
+            "objective": "Explore possible synergies with respect to sharing data, field access\r\nExchange experiences",
+            "location": "ifib",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 9,
+            "name": "Establishment of core project group",
+            "type": "Engaging stakeholders",
+            "date": "19th April 2017",
+            "objective": "To agree on work plan and time table\r\nTo consider further recruiting  ",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 10,
+            "name": "Press meeting & kick-off",
+            "type": "Exploiting & disseminating\r\nEngaging stakeholders",
+            "date": "4th May 2017",
+            "objective": "To officially launch the project kick-off with core project group \r\nTo gain support from local administration due to positive press coverage and local stakeholder buy in",
+            "location": "Local district administration",
+            "length": "1 hour",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 11,
+            "name": "District fair",
+            "type": "Exploiting & disseminating",
+            "date": "6th-7th May 2017",
+            "objective": "Dissemination of results\r\n(Present results from co-creation activities of 1st phase through exhibiting multi-touch table)\r\nRecruitment for 2nd phase\r\nCommitment from actors in Hemelingen",
+            "location": "Weserpark, Bremen Osterholz",
+            "length": "2 days",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 12,
+            "name": "2nd core project group meeting",
+            "type": "Planning & evaluating\r\nEngaging stakeholders",
+            "date": "10th May 2017",
+            "objective": "To plan and organise the first focus groups with respect to content and concept\r\nTo consider further recruiting  ",
+            "location": "Neighbourhood management office",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 13,
+            "name": "Network meeting of local service providers",
+            "type": "Engaging stakeholders",
+            "date": "17th May 2017",
+            "objective": "Further recruitment of local service providers for our core project group.",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1 hour",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 14,
+            "name": "1st focus group with older adults (Hemelingen)",
+            "type": "Engaging stakeholders\r\nCo-creating service concept",
+            "date": "22nd May 2017",
+            "objective": "To engage older adults in the project.\r\nTo get feedback on the relevance of the content of the technical result from Osterholz.",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 15,
+            "name": "1st focus group with older adults (Sebaldsbrück)",
+            "type": "Engaging stakeholders\r\nCo-creating service concept",
+            "date": "23rd May 2017",
+            "objective": "To engage older adults in the project.\r\nTo get feedback on the relevance of the content of the technical result from Osterholz.",
+            "location": "Day care center of the local charity organisation (ASB) Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 16,
+            "name": "1st focus group with older adults (Arbergen)",
+            "type": "Engaging stakeholders\r\nCo-creating service concept",
+            "date": "24th May 2017",
+            "objective": "To engage older adults in the project.\r\nTo get feedback on the relevance of the content of the technical result from Osterholz.",
+            "location": "Senior residence in Arbergen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 17,
+            "name": "2nd focus group with older adults (Arbergen)",
+            "type": "Co-creating service concept\r\nWorking with (open) data",
+            "date": "6th June 2017",
+            "objective": "To discuss possible solutions for the mobility problems (e.g. information on connecting routes)\r\nTo complement the data from the printed district guide\r\nTo collect the cultural probes and consent forms",
+            "location": "Senior residence in Arbergen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 18,
+            "name": "3nd core project group meeting",
+            "type": "Engaging stakeholders\r\nPlanning & evaluating",
+            "date": "13th June 2017",
+            "objective": "To reflect on the completed activities, to plan and organize further focus groups \r\nTo consider further recruiting  ",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 19,
+            "name": "2nd focus group with older adults (Hemelingen)",
+            "type": "Working with (open) data",
+            "date": "13th June 2017",
+            "objective": "To complement the data from the printed district guide",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 20,
+            "name": "2nd focus groups (Sebaldsbrück)",
+            "type": "Working with (open) data",
+            "date": "14th June 2017",
+            "objective": "To complement the data from the printed district guide",
+            "location": "Old town hall Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 21,
+            "name": "1st district walk with older adults (Tamra)",
+            "type": "Engaging stakeholders\r\nCo-creating service concept",
+            "date": "30th June 2017",
+            "objective": "To identify relevant attributes for walking routes (what information older adults need on walking routes)\r\nTo raise trust and interest on the project",
+            "location": "Neighbourhood Hemelingen",
+            "length": "3 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 22,
+            "name": "4th core project group meeting",
+            "type": "Working with (open) data",
+            "date": "9th August 2017",
+            "objective": "To establish a data structure \r\nTo identify and define data sources and arrange related tasks",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 23,
+            "name": "Debriefing session on 1st district walk (ID 15)",
+            "type": "Co-creating service concept",
+            "date": "9th August 2017",
+            "objective": "To debrief the results from the 1st walking workshop (Attributes and data)\r\nTo discuss examples on displaying routes and related information\r\nTo plan the next walking route\r\nTo develop another walking route",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 24,
+            "name": "Meeting with P+T bureau for urban planning",
+            "type": "Working with (open) data",
+            "date": "15th August 2017",
+            "objective": "The project “accessible city guide Bremen” creates accessible routes through Bremen through the detailed measure of routes and possible barriers and their description. MobileAge would like to collaborate with them on the Co-creation of age-friendly walks in Hemelingen.",
+            "location": "p+t Bureau",
+            "length": "1 hour",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 25,
+            "name": "2nd district walk with older adults (Hasenpromenade)",
+            "type": "Working with (open) data",
+            "date": "15th August 2017",
+            "objective": "To collect data on interesting places and issues along the route",
+            "location": "Neighbourhood Arbergen",
+            "length": "3 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 26,
+            "name": "Data capture on 1st district walk (ID 15)",
+            "type": "Working with (open) data",
+            "date": "23rd August 2017",
+            "objective": "To collect data material (audio, video, photography’s, text) on the route and the interesting places along the route",
+            "location": "Neighbourhood Hemelingen",
+            "length": "3 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 27,
+            "name": "Co-creating a district walk (ID 25)",
+            "type": "Co-creating service concept",
+            "date": "29th August 2017",
+            "objective": "To plan and organize another district walk with knowledgeable older adults from the district",
+            "location": "Neighbourhood Hastedt",
+            "length": "1,5 hours",
+            "documented": false,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 28,
+            "name": "3rd district walk with older adults (Schlengpark)",
+            "type": "Working with (open) data",
+            "date": "30th August 2017",
+            "objective": "To collect data on interesting places and issues along the route",
+            "location": "Neighbourhood Hemelingen",
+            "length": "3 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 29,
+            "name": "5th core projectgroup meeting",
+            "type": "Planning & evaluating\r\nWorking with (open) data\r\nEngaging stakeholders",
+            "date": "19th September 2017",
+            "objective": "To update the core project group on the progress conducted walks, meetings etc.) and to plan the next steps (tablet groups, data co-creation)",
+            "location": "Protestant church Bremen Hemelingen",
+            "length": "1,5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 30,
+            "name": "4th district walk with older adults (Sebaldsrück)",
+            "type": "Working with (open) data",
+            "date": "19th September 2017",
+            "objective": "To explore and record a walk through the district and collect data on nice places",
+            "location": "Neighbourhood Sebaldsbrück",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 31,
+            "name": "5th district walk with older adults (Arbergen)",
+            "type": "Working with (open) data",
+            "date": "28th September 2017",
+            "objective": "To explore and record a walk through the district and collect data on nice places\r\nTo recruit participants for further process",
+            "location": "Neighbourhood Arbergen",
+            "length": "5 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 32,
+            "name": "1st tablet workshop with older adults",
+            "type": "Co-creating software",
+            "date": "9th October 2017",
+            "objective": "To introduce participants in the use of tablets and apps",
+            "location": "Neighbourhood Hemelingen",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 33,
+            "name": "6th  district walk with older adults (Hastedt)",
+            "type": "Working with (open) data",
+            "date": "17th October 2017",
+            "objective": "To explore a historical walk through the district and collect data on historically intersting places.\r\nTo recruit further participants",
+            "location": "Neighbourhood Hastedt",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 34,
+            "name": "2nd Tablet workshop with older adults",
+            "type": "Co-creating software",
+            "date": "19th October 2017",
+            "objective": "To bring all participants on the same level and prepare them for the upcoming design phase\r\nTo agree on content and functionalities",
+            "location": "Neighbourhood Hemelingen",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 35,
+            "name": "Survey of accessability aspects for 1st district walk (ID 15)",
+            "type": "Working with (open) data",
+            "date": "23rd October 2017",
+            "objective": "To survey barriers on the route/create data on the accessability of the walk",
+            "location": "Neighbourhood Hemelingen",
+            "length": "3 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        },
+        {
+            "id": 36,
+            "name": "3rd Tablet workshop with older adults",
+            "type": "Co-creating software",
+            "date": "26th October 2017",
+            "objective": "To design drafts for displaying the walks in the app",
+            "location": "Neighbourhood Hemelingen",
+            "length": "2 hours",
+            "documented": true,
+            "relatedCoCreationStream": 2
+        }
+    ],
+    "stakeholders": [
+        {
+            "id": 1,
+            "name": "Elina Syritzidou",
+            "type": "Facilitator, Local government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Directorate of Transparency and E-governance"
+        },
+        {
+            "id": 2,
+            "name": "Kallitsa Pantazi",
+            "type": "Facilitator, Local government",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Directorate of Innovation & Entrepreneurship"
+        },
+        {
+            "id": 3,
+            "name": "Anthoula Nikopoulou",
+            "type": "Facilitator, Local government",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Directorate of Innovation & Entrepreneurship"
+        },
+        {
+            "id": 4,
+            "name": "Nikolaos Stampoulis",
+            "type": "Facilitator, Local government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Directorate of Transparency and E-governance"
+        },
+        {
+            "id": 5,
+            "name": "Evangelos Karagiannis",
+            "type": "Facilitator, Local government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Directorate of Public Health and Social Welfare"
+        },
+        {
+            "id": 6,
+            "name": "Foteini Mprafa",
+            "type": "Facilitator, Local government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Directorate of Public Health and Social Welfare"
+        },
+        {
+            "id": 7,
+            "name": "Apostolos Pleksidas",
+            "type": "Facilitator, Local government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Head of Directorate of Transparency and E-governance"
+        },
+        {
+            "id": 8,
+            "name": "Kostas Michailidis",
+            "type": "Facilitator, Local government",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Head of Directorate of Innovation & Entrepreneurship"
+        },
+        {
+            "id": 9,
+            "name": "Eleftherios Georgouletis",
+            "type": "Intern",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Directorate of Transparency and E-governance"
+        },
+        {
+            "id": 10,
+            "name": "Eliza Kouniaki",
+            "type": "Intern",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Directorate of Human Resources & Quality Management"
+        },
+        {
+            "id": 11,
+            "name": "Manolis Falelakis ",
+            "type": "Researcher, Software Developer",
+            "dataOwner": false,
+            "organization": "AUTH",
+            "explanation": "Research, SW Design etc"
+        },
+        {
+            "id": 12,
+            "name": "Kolida Athanasia",
+            "type": "Facilitator",
+            "dataOwner": false,
+            "organization": "Municipality of Thessaloniki",
+            "explanation": "Head of 14 Open Care Centers"
+        },
+        {
+            "id": 13,
+            "name": "Nikoleta CantRememberSurname",
+            "type": "Facilitator, Local government",
+            "dataOwner": false,
+            "organization": "RCM",
+            "explanation": "Directorate of Innovation & Entrepreneurship"
+        },
+        {
+            "id": 14,
+            "name": "Anastasios Kakouris",
+            "type": "Researcher, Software Developer",
+            "dataOwner": false,
+            "organization": "AUTH",
+            "explanation": ""
+        },
+        {
+            "id": 15,
+            "name": "Kalogridou Aleksia",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 16,
+            "name": "Paparidou Maria",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 17,
+            "name": "Aulonitou Georgia",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 18,
+            "name": "Aleksiada Georgia",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 19,
+            "name": "Paparounas Giorgos",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 20,
+            "name": "Lalaka Georgia",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 21,
+            "name": "Fasara Maria",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 22,
+            "name": "Lolaris Tasos",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 23,
+            "name": "Rea Dimitra",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 24,
+            "name": "Poras Kostas",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 25,
+            "name": "Gala Maria",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 26,
+            "name": "Galota Maria",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 27,
+            "name": "Manos Karamitros",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 28,
+            "name": "Kostas Paparigos",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 29,
+            "name": "Konstantinos Georgiou",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 30,
+            "name": "Vasiliki Kapa",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 31,
+            "name": "Athanasia Kapatsa",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 32,
+            "name": "Nikos Tsiliou",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 33,
+            "name": "Gianis Kostantaras",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 34,
+            "name": "Eleni Papariga",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 35,
+            "name": "Dimitra Stiliani",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 36,
+            "name": "Ermis Aggelioforos",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 37,
+            "name": "Stavros Tentas",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 38,
+            "name": "Anna Laikou",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 39,
+            "name": "Christina Kotoulia",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 40,
+            "name": "Katerina Evgenidou",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 41,
+            "name": "Eleni Mpoutrouki",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 42,
+            "name": "Kostas Liontomitsos",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 43,
+            "name": "Themistoklis Kolokotronis",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 44,
+            "name": "Georgia Papaflessa",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 45,
+            "name": "Eleonora Melousi",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 46,
+            "name": "Giorgos Papathemistoklis",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 47,
+            "name": "Iraklis Latsios",
+            "type": "Local Government",
+            "dataOwner": true,
+            "organization": "RCM",
+            "explanation": "Director of Enviroment Department"
+        },
+        {
+            "id": 48,
+            "name": "Lizarga Eleni",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 49,
+            "name": "Maraki Marina",
+            "type": "Older adult",
+            "dataOwner": false,
+            "organization": "Participant at co-creation phase",
+            "explanation": ""
+        },
+        {
+            "id": 50,
+            "name": "Juliane Jarke",
+            "type": "Facilitator",
+            "dataOwner": "False",
+            "organization": "ifib - Research Institute"
+        },
+        {
+            "id": 51,
+            "name": "Ulrike Gerhard",
+            "type": "Facilitator",
+            "dataOwner": "False",
+            "organization": "ifib - Research Institute"
+        },
+        {
+            "id": 52,
+            "name": "Herbert Kubicek",
+            "type": "Facilitator",
+            "dataOwner": "False",
+            "organization": "ifib - Research Institute"
+        },
+        {
+            "id": 53,
+            "name": "Alte Vielfalt",
+            "type": "Engagement audience",
+            "dataOwner": "True",
+            "organization": "Network of service providers"
+        },
+        {
+            "id": 54,
+            "name": "Tim Schütz",
+            "type": "Facilitator",
+            "dataOwner": "False",
+            "organization": "ifib - Research Institute"
+        },
+        {
+            "id": 55,
+            "name": "Jörn Hermening",
+            "type": "Local government",
+            "dataOwner": "True",
+            "organization": "Head of the administration of the city district Hemelingen"
+        },
+        {
+            "id": 56,
+            "name": "Karin Schüdde",
+            "type": "Service provider",
+            "dataOwner": "False",
+            "organization": "Protest. church – social activities manager",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 57,
+            "name": "Sabine Bonjer",
+            "type": "Service provider",
+            "dataOwner": "False",
+            "organization": "Care home manager (Stiftungsdorf Arberger Mühle)",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 58,
+            "name": "Monia Ackermann",
+            "type": "Service provider",
+            "dataOwner": "False",
+            "organization": "Social welfare organisation for people with mental health problems (AWO)",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 59,
+            "name": "Birgit Benke ",
+            "type": "Local government",
+            "dataOwner": "True",
+            "organization": "District marketing",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 60,
+            "name": "Christa Komer",
+            "type": "Service provider",
+            "dataOwner": "False",
+            "organization": "Senior citizens interest group (Seniorenvertretung)"
+        },
+        {
+            "id": 61,
+            "name": "Silja Weisser",
+            "type": "Other Organisation",
+            "dataOwner": "False",
+            "organization": "Journalist"
+        },
+        {
+            "id": 62,
+            "name": "Heike Schilling ",
+            "type": "Service provider",
+            "dataOwner": "True",
+            "organization": "Neighbourhood manager/social worker Hemelingen"
+        },
+        {
+            "id": 63,
+            "name": "Gaby Dönselmann",
+            "type": "Service provider",
+            "dataOwner": "True",
+            "organization": "Association for social work (MoBiLe)",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 64,
+            "name": "Beke Herbst ",
+            "type": "Service provider",
+            "dataOwner": "True",
+            "organization": "Community centre (Bürgerhaus Hemelingen)",
+            "explanation": "Alte Vielfalt"
+        },
+        {
+            "id": 65,
+            "name": "Lisa Morgenschweis",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating government-funded project  Accessible City Guide ",
+            "explanation": "P+T bureau for urban planning"
+        },
+        {
+            "id": 66,
+            "name": "Karin Bammann",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating research project  Buten aktiv "
+        },
+        {
+            "id": 67,
+            "name": "Carina Drell",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating research project  Buten aktiv "
+        },
+        {
+            "id": 68,
+            "name": "Lena Lübs",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating research project  Buten aktiv "
+        },
+        {
+            "id": 69,
+            "name": "Imke Stalling ",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating research project  Buten aktiv "
+        },
+        {
+            "id": 70,
+            "name": "Klaus Klein*",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 1st co-creation phase"
+        },
+        {
+            "id": 71,
+            "name": "Gabriele Sänger",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 1st co-creation phase"
+        },
+        {
+            "id": 72,
+            "name": "Jürgen Rolfes",
+            "type": "Older Adult",
+            "dataOwner": "False",
+            "organization": "Participant from 1st & 2nd co-creation phase"
+        },
+        {
+            "id": 73,
+            "name": "Hannah Froh",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 74,
+            "name": "Ralph Dose",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 75,
+            "name": "Christine Borg",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 76,
+            "name": "Harald Petersen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 77,
+            "name": "Norbert Mönch",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 78,
+            "name": "Hans König",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 79,
+            "name": "Maria Rausch",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 80,
+            "name": "Rüdiger Rausch",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 81,
+            "name": "Renate Busche",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 82,
+            "name": "Irene Hansen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 83,
+            "name": "Gudrun Weidenfels",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 84,
+            "name": "Elisabeth Körner",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 85,
+            "name": "Frank Reins",
+            "type": "Software Developer",
+            "dataOwner": "False",
+            "organization": "FTB - Research institute"
+        },
+        {
+            "id": 86,
+            "name": "Dörte Becker",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 87,
+            "name": "Brigitte Feldt",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 88,
+            "name": "Gustav Feldt",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 89,
+            "name": "Frank Berker",
+            "type": "Software Developer",
+            "dataOwner": "False",
+            "organization": "FTB - Research institute"
+        },
+        {
+            "id": 90,
+            "name": "Frauke Groß",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 91,
+            "name": "Eva Warnke",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 92,
+            "name": "Thilde Müller ",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 93,
+            "name": "Hannelore Trost",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 94,
+            "name": "Katharina Grün",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 95,
+            "name": "Pauline Herrlich",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 96,
+            "name": "Christoph Theiling",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating government-funded project  Accessible City Guide "
+        },
+        {
+            "id": 97,
+            "name": "Dietmar Franzen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 98,
+            "name": "Hildegart Rüppe",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 99,
+            "name": "Horst Weise",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 100,
+            "name": "Heinz Haufe",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 101,
+            "name": "Marcel Kaup",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "City information provider Bremen.Online"
+        },
+        {
+            "id": 102,
+            "name": "Claire Fröhlich",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "City information provider Bremen.Online"
+        },
+        {
+            "id": 103,
+            "name": "Henning Sklorz",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "City information provider Bremen.Online"
+        },
+        {
+            "id": 104,
+            "name": "Joachim Dietrich",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 105,
+            "name": "Rainer Koch",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 106,
+            "name": "Christa Lange",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 107,
+            "name": "Ernst Klopp",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 108,
+            "name": "Grete Bald",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 109,
+            "name": "Rudolf Hansen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 110,
+            "name": "Ralf Rot",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 111,
+            "name": "Gertrud Walters",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 112,
+            "name": "Erich Hansen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 113,
+            "name": "Ulrich Bäcker",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 114,
+            "name": "Ursula Greve",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 115,
+            "name": "matzen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 116,
+            "name": "Else Matzen",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 117,
+            "name": "Henning Walters",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 118,
+            "name": "Walter Bischoff",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 119,
+            "name": "Otto Bauer",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 120,
+            "name": "Kurt Kunz",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 121,
+            "name": "Tilman Greve",
+            "type": "Older adult",
+            "dataOwner": "False",
+            "organization": "Participant from 2nd co-creation phase"
+        },
+        {
+            "id": 122,
+            "name": "Irina Zakharova",
+            "type": "Facilitator",
+            "dataOwner": "False",
+            "organization": "ifib - Research Institute"
+        },
+        {
+            "id": 123,
+            "name": "Anna Clauberg",
+            "type": "Other Organisation",
+            "dataOwner": "True",
+            "organization": "Collaborating government-funded project  Accessible City Guide ",
+            "explanation": "P+T bureau for urban planning"
+        }
+    ],
+    "activities": [
+        {
+            "id": 1,
+            "name": "Informational event about Mobile Age project",
+            "type": "Focus group",
+            "intendedGoal": "Inform old people about our project, recruit those interested",
+            "substage": "Setting-up of core project group",
+            "description": "17 old people attended + 2 intermediaries. At first we introduced ourselves to them and tried to  finf a few things about their IT literacy and use levels of mobile devices. They are had either simple phones or smartphones, only one had a tablet. There was a presentation by Mrs Pantazi of the project, Mrs Syritzidou explained the concept of open data and Mr Falelakis gave some examples of potential services. A form of consent to participate was handed out to them as well as other informational material.",
+            "picture": "/assets/img/rcm-people.jpg",
+            "outcome": "Many expressed interest and positive  feedback,  7 handed over consent forms",
+            "notes": "It went very well generally. 17 attendants + 2 intermediaries. There were 6 employees from RCM (Kallitsa, Anthoula, Evangelos, Foteini, Elina, Nikolaos) and 2 young colleagues during their internship (Lefteris, Eliza). I asked them to note down services and provide feedback to us with their fresh point of view. Manolis attended on behalf of AUTH. Only 2 of the participants were men (!) and a third one (one of the intermediaries). Few of the attendants were from other Open Care Centers. There was a provocative question about which company has made the offers for the tablets to EU indicating that a company may have profitted from this project but we suppose that this type of questions occurs commonly.The room was a bit crowded and in the next room there was an exercise -gym class taking place but it was surprisingly quiet -mostly women took part there, too. Participation would have been much larger a few days earlier but an organised 3-day excursion had started that day, so we had some “leaks”.When they were asked for feedback, most said they found it interesting, they wanted to participate.Some had false impression about what it is and anticipated to find out things about technology and how to use devices and get help on using their mobiles. When we asked them if they understood what it was about, they said yes, but then when further explaining their ideas we realised it was not so clear to them. ",
+            "supportingMaterial": "1-page informational leaflet, participation consent form, laptop & projector with relevant presentation",
+            "relatedIntervention": 1,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11,
+                30,
+                31,
+                34,
+                35,
+                38,
+                39,
+                40,
+                41,
+                42,
+                44,
+                45,
+                46,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Questionnaire-based activity",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "Keep them interested, give them a better idea of what the project will be about, understand their needs",
+            "substage": "Idea forming",
+            "description": "The questionnaire was presented by Mr Karagiannis and it was well received. Some ladies didn’t have their glasses with them so needed help for replying, which we eagerly provided. And we also provided information and help to anyone who seemed to be trying to figure out what the questions meant. They were asked for feedback on that first event and they gave a positive feedback but we also realised that they didn’t have a clear view of the project. The 2 interns also provided help to them, took notes and were asked to give us some feedback later. Photos and short videos were taken. We also showed them a tablet like the ones that the project will use. Many had technology -problem related questions that addressed to us.",
+            "outcome": "We tried to realise more about their health needs, collected 14 questionnaires",
+            "notes": "When completing the questionnaires, one old lady that entered later told me that she would get the answers from another lady which was there before and then hand it over to us. (of course I told her that we needed her own view on that).When asked what could be improved in today’s session, a lady told me that we could implement a type of service such as a panic button. Another one, when asked the same question replied that we could extend oasth’s informational service on all bus stops. An old man told us I was expecting other things and what I heard from you was different. He wanted to listen about how to use his mobile device and started telling me how he ended up losing all his phone contacts and trying to recover some from his wife’s and sister’s phone. Another lady was enthousiastic about our “seminars” and wanted to learn how to use devices. After most of the people had left, we tried to take a photo and asked her to take one picture with the use of a tablet, in order to help her get a feeling of the device, but she couldn’t do it successfully…Easy access to doctors, appointment booking and medicine might be one of the top issues of their concern.- but that’s without taking note of the answers recorded in questionnaires.They were 17 out of 25 initially interested, which we find a quite large number to handle. We are planning to fix a date (probably the 30th of June) at the next KAPH (Lampraki Area) if people from the RCM Health Department are available.",
+            "supportingMaterial": "questionnaire, laptop & projector showing the questionnaire ",
+            "relatedIntervention": 1,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11,
+                30,
+                31,
+                34,
+                35,
+                38,
+                39,
+                40,
+                41,
+                42,
+                44,
+                45,
+                46,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Informational event about Mobile Age project",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "Inform old people about our project, recruit those interested",
+            "substage": "Continuous recruiting of additional co-creators",
+            "description": "13 old people attended + 2 intermediaries. We were not all present there so we handed over some material (informational sheets, consent forms) to keep them busy while waiting for the rest of us to arrive. Finally, we were introduced by Mrs Pantazi. We had a short Q&A session about their IT & mobile literacy. I think 3 out of 13 had a smart device, the rest use simple phone devices. Mrs Pantazi presented the project. They seemed interested. We explained the project and the co-creation process avoiding the open-data concept that had confused the first  group.",
+            "outcome": "Many expressed interest and positive  feedback, 7 handed over consent forms",
+            "notes": "We were calmer and more relaxed than the first time, but also less enthusiastic. We had forgotten to bring pens along so one had to buy and bring some to be used for filling in the questionnaires. ",
+            "supportingMaterial": "1-page informational leaflet, participation consent form, laptop & projector with relevant presentation",
+            "relatedIntervention": 2,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Questionnaire-based activity",
+            "type": "Focus group",
+            "intendedGoal": "Keep them interested, give them a better idea of what the project will be about, understand their needs",
+            "substage": "Idea forming",
+            "picture": "/assets/img/rcm-people.jpg",
+            "description": "Mr Karagiannis presented the questionnaire, they understood most of the  questions and some were going faster than the rest of the group... They replied to the questions, commented on them, asked for clarifications and even spotted some omitions from the available answers. There was some tension when we tried to explain that some of the ideas that they described could not be offered by the project. In  general the activity was conducted in a positive and fruitful climate. Some of the rest were walking around the old people trying to help in case they needed something. Others where documenting the event and taking pictures. This time we also recorded sound  with a microphone directly to the laptop. We asked  for feedback on that first event, it was positive. We went for a coffee afterwards and one of the old people joined us (teacher at a vocational school and offered to get some more questionnaires answered by handing them over to people who couldn’t attend).",
+            "outcome": "We tried to realise more about their health needs, collected 12 questionnaires",
+            "notes": "People showed interest and participated actively, however some suggested things that are out of the scope of the project, such as 24-7 function of all hospitals in our area.",
+            "supportingMaterial": "questionnaire, laptop & projector showing the questionnaire ",
+            "relatedIntervention": 2,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                9,
+                12,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Internal interaction ",
+            "type": "Cooperation meeting",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "To focus on specific services based on relative datasets to clarify the availability and suitability of relative open data, to focus on specific areas of proposed services related to health, to prepare the approach to be used in the first workshop.",
+            "substage": "Surveying existing services",
+            "description": "We discussed the ability of AUTH to get data directly from the Medical Accosiation of Thessaloniki. Some communication had taken place in the past and a direct link was tested between AUTH and Medical Accosiation of Thessaloniki. However, the quality of the data was not satisfactory. We decided to also ask for the dataset from EOPYY that is in the format AUTH prefers in order to navigate old people to the doctor’s offices and also provides online information on their available appointments since each doctor with EOPYY contract has a limited amount of free appointments per month for insured patients and after the doctor has filled up this number, the next patients have to pay in order to visit the doctor. We also tried to clarify the availability of an added value dataset of SYFA (an organisation related to the pharmacists accosiation) so we made some calls to “key” people in SYFA. We also considered as easy to find and interesting the dataset concerning hospitals on duty.",
+            "outcome": "We arranged that Fotini Mprafa would get in touch with the pharmacist accosiation with the aid of Manolis Falelakis as far as the terminology is concerned and that Elina Syritzidou would provide her the contact details. We fixed a date to go on with the first workshop in either 12th or 3rd  of the Open Care Centers on the 14th of December, whichever would be available",
+            "notes": "We actually forgot to assign the task of talking to EOPYY official to someone and were a bit vague on who would try to find the dataset of hospitals on duty. We left aside the datasets of rehabilitation centers, opticians and microbiologists as not so interesting according to the first questionnaires. After some communication with the Open Care Centers, the 15th of December was the date fixed for the 1st workshop because all Open Care Centers had a Christmas fest on the 14th. The Open Care Center 12 was selected because the users seemed slightly more advanced as far technology is concerned. The person in charge for SYFA was Konstantinidis Theodoros.",
+            "supportingMaterial": "pens and A4 paper documenting the meeting, answers from the questionnaires, mobile phones from which we made the calls and got communication details for SYFA, and also saw a related app that displays the pharmacies on duty.",
+            "relatedIntervention": 3,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                11
+            ],
+            "Related_Apps": "2.3"
+        },
+        {
+            "id": 6,
+            "name": "Communication with the person in charge of micropollutor indicators system data",
+            "type": "Stakeholder meeting",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "To determine the availability and quality of open data related to micropollutor indicators in Thessaloniki",
+            "substage": "Identifying existing data",
+            "description": "Mr Iraklis Latsios was invited to join our meeting. He is employed in RCM, in charge of the related department concerning micropollutor indicator stations. He informed us that there is no current contract for the support of the micropollutor indicators network, although all related actions have already taken place from his organisation unit since July 2017. Some improvements and expansions on the network are expected but not something that will be available soon.",
+            "outcome": "We cannot count on the existence of such datasets, which is disappointing since most of the old people (96%), even without respiratory issues, were interested in learning about environmental pollution in certain areas and receiving such alerts",
+            "notes": "We have to suggest the implementation of alternative services and not focus on micropollutor indicators and alerts on pollution. Furthermore, some interpretation from a medical point of view would be necessary for this task even if we have the data which is not available at the moment. We might take into account this service too during app developmnet, but we’ ll not emphasize on that on our workshop with the old people because we’ll probably not be able to provide such a service",
+            "supportingMaterial": "pens and A4 paper, answers from the questionnaires",
+            "relatedIntervention": 3,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                11,
+                47
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Co-creation event",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "Present the results from the questionnaires gathered and the basic services of the application and then get feedback from the beneficiaries",
+            "substage": "Developing a rough service concept",
+            "description": "Initially, an overview of the project was made for those who did not attend the previous events. Afterwards the main findings from the processing of the results of the questionnaires gathered were demonstrated. While presenting the basic features of the application, the participants gave their feedback by fulfilling a related assessment questionnaire. Furthermore, the beneficiaries also indicated the pharmacies that they deal with, in order to include them in the application. Finally, an interactive session took place by discussing and noting on flip charts supplementary services required for meeting the beneficiaries' needs.",
+            "outcome": "Great interest from the part of the beneficiaries. 12 consent forms. 19 fulfilled assessment questionnaires about the services of the application. A list of proposed pharmacies to be included in the application. Flipchart notes with supplementary services needed.",
+            "notes": "This co-creation event had the largest participation of beneficiaries, who showed a great interest in the activity and actively took part in the event. The basic services of the application were assessed positively in general. Apart from the basic services related to medical doctors (information about doctors of specific medical specialty in a designated area and EOPYY contracted, as well as direct communication and navigation to the selected doctor), the participants asked to be also informed about the availability of medical appointments of the certain doctor. Regarding the services related to the pharmacies, the participants stated that they were covered by the predicted services (electronic sending the medical description to the pharmacy in order to get feedback on its availability, direct information about the on-call pharmacies in a designated area, as well as direct communication and navigation to the selected pharmacy) and provided a list with the pharmacies that they deal with, so that they get included in the application. As far as other services are concerned, apart from information regarding the on-call hospitals by specialty and geographical area, the participants asked to be also informed about the availability of medical appointments at the out-patients clinics. Moreover, in addition to receiving sms alert about the levels of air pollution, the participants asked to get also relevant sms about the levels of humidity. Finally, they stressed out the need to have access to speed dial buttons to emergency services - ambulance, police, fire brigade - and to close relatives. ",
+            "supportingMaterial": "Laptop & data projector, flichart & coloured markers, consent forms, assessment questionnaire forms, list of proposed pharmacies forms, PP presentation, pens",
+            "relatedIntervention": 4,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                5,
+                11,
+                27,
+                29,
+                30,
+                31,
+                34,
+                35,
+                38,
+                39,
+                40,
+                41,
+                42,
+                44,
+                45,
+                46,
+                25,
+                26,
+                48,
+                49
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Co-creation event",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "Present 1) the basic services of the application and 2) the questionnaires results of the services evaluation, and demonstrate various options for the interface/functionality of the application through mockups. Also demonstrate a current implementation of the app and show them the list of pharmacies with their preferred pharmacist for the implementation of the pharmacist app",
+            "substage": "Detailing service concept",
+            "description": "Initially, an overview of the project was made for those who did not attend the previous events. Afterwards the main findings from the processing of the results of the questionnaires gathered were re-demonstrated (from the previous meeting). Also, it was noted which of the services/functionalities are currently implemented, which services are not implemented yet and which services will not be implemented. Finally, they were presented, through mockups, 2 different options of the interface/functionality of the application.",
+            "outcome": "Great interest from the part of the beneficiaries. 21 total seniors attended with full attention and interest. Also some of them (2-3) had laptops or tablets with them and were very excited.",
+            "notes": "People showed interest all along the demonstration, particularly at the presentation of mockups.",
+            "supportingMaterial": "Laptop & data projector, PP presentation",
+            "relatedIntervention": 5,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                5,
+                11,
+                14,
+                27,
+                29,
+                30,
+                31,
+                32,
+                34,
+                35,
+                36,
+                38,
+                39,
+                40,
+                41,
+                42,
+                44,
+                45,
+                46
+            ],
+            "Related_Apps": "4"
+        },
+        {
+            "id": 9,
+            "name": "Co-creation event",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "Through mini-groups with the help of moderator, the goal was to co-create the application. Specifically, the goal was to make the senior citizens to choose one of the 2 interaction/interface application options and take further feedback about the functionality and interaction/screens of the application.",
+            "substage": "Agreeing on functionality to be implemented",
+            "description": "21 Seniors were splitted to 4 groups (3 groups of 5 and 1 group of 6). One facilitator acted as a moderator for each group. The moderator job was simple: to take as much feedback as possible and to extract as many comments as possible for the further development/improvement of the app. For that reason, each moderator had a leaflet filled with various questions. The questions corresponded to the interface of the application (eg. do you want bigger fonts?)  and also to the further improvement of the health services in order to better suit the needs of senior citizens (eg. do you want to be able to search many doctors specialties each time?). Each moccup was assigned a unique number in order to assist the moderator in which screen was being referred each time. ",
+            "outcome": "The procedure unfolded succesfully and as planned. We extracted many comments for the further improvement of the app. Also the outcome lead us to various technical decisions.",
+            "notes": "Senior citizens co-operated perfectly with the moderators. ",
+            "supportingMaterial": "Flichart & coloured markers, consent forms, assessment questionnaire forms, pens",
+            "relatedIntervention": 5,
+            "relatedStakeholders": [
+                1,
+                2,
+                3,
+                5,
+                11,
+                14,
+                27,
+                29,
+                30,
+                31,
+                32,
+                34,
+                35,
+                36,
+                38,
+                39,
+                40,
+                41,
+                42,
+                44,
+                45,
+                46
+            ],
+            "Related_Apps": "4"
+        },
+        {
+            "id": 10,
+            "name": "Co-creation event",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "A group was given some tablets and the goal was to evaluate the application's user interface through various themes, styles and layout.",
+            "substage": "Testing & reviewing functionality",
+            "description": "18 seniors were given 15 tablets. Some seniors brought their tablets/phones so they used those for this activity. The application was pre-loaded in the tablet and the senior user could access it from there. We asked them to test 3 different styles. The first one was the default look of the application with the initial colors and a 4x1 layout of the service tiles at the home page. The second style changed the layout of the home screen, to a 2x2 grid of the service tiles, while the third style kept the same layout with the first style but changed the main colors of the application. The seniors had to compare those styles and decide which feels best for them. ",
+            "outcome": "Albeit the procedure was a little chaotic due to some technical limitations (eg at first couldn’t connect to the internet), the high number of the seniors and the limited number of us (the stakeholders), we managed to take feedback about the best/preferred look of the application. ",
+            "notes": "We need more guys from us the next time and to be better organized beforehand. ",
+            "supportingMaterial": "15 Tablets, consent forms, questionnaire forms, pens",
+            "relatedIntervention": 6,
+            "relatedStakeholders": [
+                3,
+                5,
+                11,
+                13,
+                14,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "Related_Apps": "4"
+        },
+        {
+            "id": 11,
+            "name": "Co-creation event",
+            "type": "Focus group",
+            "picture": "/assets/img/rcm-people.jpg",
+            "intendedGoal": "A group was given some tablets and the goal was to complete some assigned user scenarios in order to evaluate the accessibility, experience and easeness of the user with the application's functionality.",
+            "substage": "Prototyping & implementation",
+            "description": "18 seniors were given 15 tablets. Some seniors brought their tablets/phones so they used those for this activity. We handed them 7 user scenarios like find the hospital clinics that are on duty on this particular day or find and call the closest doctor. In the background, the application was logging the taps of the users and their movements in order to examine their successability later. ",
+            "outcome": "The procedure was also a little chaotic as the previous one. A few seniors found this activity very easy and completed it in 5 minutes the majority of the others had a very hard time and some of them faced some accessibility issues, e.g they couldn't unlock the tablet if the screen was off because of idle time, the keyboard confused them at user inputs them and hide the rest of the screen, the some users unwittingly minimized the application (by pressing the home tablet button) and then couldn't maximize it again etc etc.  ",
+            "notes": "The next time, we should be more prepared. Certainly, we must have more guys from us, 1 person for 2-3 seniors would be nice. ",
+            "supportingMaterial": "15 Tablets, consent forms, questionnaire forms, pens",
+            "relatedIntervention": 6,
+            "relatedStakeholders": [
+                3,
+                5,
+                11,
+                13,
+                14,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ],
+            "Related_Apps": "4"
+        }
+    ],
+    "technicalDecisions": [
+        {
+            "id": 1,
+            "name": "Micropollutor data have stopped being updated since November 2017",
+            "problemscope": "No data available",
+            "history": "There is currently no such data available, the problem might be solved but we cannot rely on that",
+            "recommendation": "The app might take into account this service but the emphasis will be given on other services",
+            "decision": "Not to present it at the next cocreation workshop",
+            "nextsteps": "Try to find alternative data of high value",
+            "relatedActivity": 6,
+            "relatedApp": null
+        },
+        {
+            "id": 2,
+            "name": "Final Selection of main interface of the app",
+            "problemscope": "Whether the main view of the app should be a map or not.",
+            "feasibility": "5 / 5",
+            "decision": "The main view of the app will remain as it is. That is the presentation of the services as links (icons) in a grid and not a map.",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 3,
+            "name": "Colors of service icons (hospitals etc)",
+            "problemscope": "The colors of service icons are not very distinct.",
+            "feasibility": " 5 / 5 ",
+            "decision": "The colors of service icons will be changed in order to be more distinct.",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 4,
+            "name": "Font size",
+            "problemscope": "Font size may not be big enough for the mobile/tablets",
+            "feasibility": " 4 / 5 ",
+            "decision": "Re-evaluate the font size and the readability with the use of tablets",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 5,
+            "name": "Panic Button",
+            "problemscope": "How the panic button should work",
+            "availableoptions": "1) Panic button will be activated instantly when pressed and a call to a pre-selected default number will be made.  2) Before the activation of the call, a drop-down menu will appear and the senior will choose which number to call",
+            "feasibility": " 4 / 5 ",
+            "decision": "A drop-down menu will appear when the panic button is clicked. The senior citizen will then select its emergency call from a list. The list can be modified and the senior can add whichever number he likes. Also for accessibility issues, a confirmation dialog will be prompted before each call in order to make sure that a user wants to make a call... (however all those actions make this button a no-panic button...)",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 6,
+            "name": "Search with given region, not only with current position",
+            "history": "Currently, a user could search a nearby pharmacy or doctor only by providing his current location (GPS). ",
+            "feasibility": " 4 / 5 ",
+            "decision": "The user will be able to search a doctor or a pharmacy given a certain region. Appropriate option box will be prompted to user after he clicks the service and the user could either select to search a service nearby by his current location or by providing a certain region",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 7,
+            "name": "Google Maps",
+            "history": "Currently, the Mobile Age Path Component provides a vary basic/minimalistic support for paths and routing to a certain location. ",
+            "feasibility": " 4 / 5 ",
+            "decision": "A user will be able to activate the Gmaps service in order to be navigated to a certain position (pharmacy etc). A google maps icon will be placed apropriately inside the application",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 8,
+            "name": "Hospitals Multiple Clinic Search",
+            "history": "Currently, a user can search multiple on-duty clinics.",
+            "decision": "TODO: ask in meeting",
+            "feasibility": "4 / 5",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 9,
+            "name": "Doctors Preferred Specialties Search",
+            "history": "Currently, a user can search multiple doctor specialties, without having a pre-selected specialty defined.",
+            "decision": "TODO: ask in meeting",
+            "feasibility": 0.8,
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 10,
+            "name": "Pharmacies k-nn",
+            "history": "Currently, a user searches for pharmacies that are within a certain radius from his position.",
+            "feasibility": "4 / 5",
+            "decision": "This implementation will be changed. The pharmacies will be search according to a classical k-nn manner returning the k-closest pharmacies. The parameter \"k\" may be set by the user",
+            "relatedActivity": 9,
+            "relatedApp": 4
+        },
+        {
+            "id": 10,
+            "name": "Hide Keyboard to small devices",
+            "problemscope": "Some senior users had a hard time typing on an input form with a keyboard that hide the half of the tablet screen (eg if tablet is at landscape)",
+            "history": "On the most select inputs (eg clinics), a user could filter the select options (by typing inside the select box) in order to choose his option faster.",
+            "feasibility": "4 / 5",
+            "decision": "The keyboard will not be activated at select inputs if the device's window height is below a certain threshold (eg mobile devices or tablets at landscape mode)",
+            "relatedActivity": 11,
+            "relatedApp": 4
+        }
+    ],
+    "apps": [
+        {
+            "id": 1,
+            "description": "Hemelingen App",
+            "name": "Awesome",
+            "link": "http://apps.mobile-age.eu:6007/"
+        },
+        {
+            "id": 2,
+            "description": "EOPYY doctors appointments",
+            "name": "",
+            "link": "apps.ika.gr"
+        },
+        {
+            "id": 3,
+            "name": "",
+            "description": "pharmacies and hospitals online",
+            "link": "efimeries-online.gr"
+        },
+        {
+            "id": 4,
+            "description": "Health services mobile application for senior citizens",
+            "name": "Senior MobileApp",
+            "link": "https://damp-waters-23664.herokuapp.com"
+        }
+    ]
+}
